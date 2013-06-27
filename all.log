@@ -1,0 +1,2445 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.8.3)  11 APR 2013 19:04
+entering extended mode
+**all
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\labstyle.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.def"
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t2aenc.dfu"
+File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+Package babel Info: Making " an active character on input line 199.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\ukraineb.ldf"
+Language: ukraineb 2008/03/21 v1.1l Ukrainian support from the babel system
+LaTeX Info: Redefining \English on input line 102.
+LaTeX Info: Redefining \textcyrillic on input line 138.
+LaTeX Info: Redefining \No on input line 299.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count91
+Package hyperref Info: Option `unicode' set `true' on input line 3177.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3941.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count93
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen107
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip11
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks18
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks19
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pb-diagram\pb-diagram.sty"
+\dgARROWLENGTH=\skip47
+\dgTEXTARROWLENGTH=\skip48
+\dgHORIZPAD=\skip49
+\dgVERTPAD=\skip50
+\dgLABELOFFSET=\skip51
+\dgARROWPARTS=\count111
+\dgDOTSPACING=\skip52
+\dgDOTSIZE=\skip53
+\dgMAXSQUARE=\count112
+\dgMINDBLSQ=\count113
+\dgCOLUMNWIDTH=\skip54
+\dg@HORIZ=\count114
+\dg@VERT=\count115
+\dg@XLPAD=\count116
+\dg@YBPAD=\count117
+\dg@XRPAD=\count118
+\dg@YTPAD=\count119
+\dg@X=\count120
+\dg@Y=\count121
+\dg@XGRID=\count122
+\dg@YGRID=\count123
+\dg@SIZE=\count124
+\dg@USERSIZE=\count125
+\dg@DX=\count126
+\dg@DY=\count127
+\dg@XLBL=\count128
+\dg@YLBL=\count129
+\dg@XOFFSET=\count130
+\dg@YOFFSET=\count131
+\dg@LBLOFF=\count132
+\dg@XLBLOFF=\count133
+\dg@YLBLOFF=\count134
+\dg@LBLPOS=\count135
+\dg@XTEMP=\count136
+\dg@YTEMP=\count137
+\dg@ZTEMP=\count138
+\dg@XNODE=\count139
+\dg@YNODE=\count140
+\dg@XEND=\count141
+\dg@YEND=\count142
+\dg@WEND=\count143
+\dg@HEND=\count144
+\dg@COUNT=\count145
+\dg@NODEBOX=\box28
+\dg@LABONEBOX=\box29
+\dg@LABTWOBOX=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count146
+\LTcapwidth=\dimen116
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count147
+\LT@rows=\count148
+\c@LT@tables=\count149
+\c@LT@chunks=\count150
+\LT@p@ftn=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty"
+Package: listingsutf8 2011/11/10 v1.2 Allow UTF-8 in listings input (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count151
+\lst@gtempboxa=\box35
+\lst@token=\toks25
+\lst@length=\count152
+\lst@currlwidth=\dimen117
+\lst@column=\count153
+\lst@pos=\count154
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count155
+\lst@lineno=\count156
+\lst@maxwidth=\dimen120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count157
+\lst@skipnumbers=\count158
+\lst@framebox=\box36
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks26
+\extratabsurround=\skip59
+\backup@length=\skip60
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count159
+))
+\everycr=\toks27
+\minrowclearance=\skip61
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\floatrow.sty"
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+)
+\c@float@type=\count160
+\float@exts=\toks28
+\float@box=\box37
+\@floatcapt=\box38
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks29
+\flrow@foot=\insert233
+\FB@wd=\dimen131
+\FBo@wd=\dimen132
+\FBc@wd=\dimen133
+\FBo@ht=\skip62
+\FBc@ht=\skip63
+\FBf@ht=\skip64
+\FBo@max=\skip65
+\FBc@max=\skip66
+\FBf@max=\skip67
+\c@FBl@b=\count161
+\floatbox@depth=\count162
+\c@FRobj=\count163
+\c@FRsobj=\count164
+\Xhsize=\skip68
+\sXhsize=\skip69
+\Zhsize=\skip70
+\sZhsize=\skip71
+\flrow@rowbox=\box39
+\FR@Zunitlength=\dimen134
+\c@FBcnt=\count165
+\FPOScnt=\count166
+\LTleft=\skip72
+\LTright=\skip73
+\LTleft=\skip74
+\LTright=\skip75
+\flrow@types=\toks30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\floatflt\floatflt.sty"
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count167
+\figbox=\box40
+\tabbox=\box41
+\pagebox=\box42
+\ffigcount=\count168
+\ftabcount=\count169
+\fftest=\count170
+\hangcount=\count171
+\nosuccesstryfig=\count172
+\nosuccesstrytab=\count173
+\figgutter=\dimen135
+\tabgutter=\dimen136
+\htdone=\dimen137
+\pageht=\dimen138
+\startpageht=\dimen139
+\tabbredd=\dimen140
+\floatfltwidth=\dimen141
+\fltitemwidth=\dimen142
+\outputpretest=\toks31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count174
+\WF@box=\box43
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+\c@ContinuedFloat=\count175
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: floatflt package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks33
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip76
+\f@ncyO@elh=\skip77
+\f@ncyO@erh=\skip78
+\f@ncyO@olh=\skip79
+\f@ncyO@orh=\skip80
+\f@ncyO@elf=\skip81
+\f@ncyO@erf=\skip82
+\f@ncyO@olf=\skip83
+\f@ncyO@orf=\skip84
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box44
+\beforetitleunit=\skip85
+\aftertitleunit=\skip86
+\ttl@plus=\dimen153
+\ttl@minus=\dimen154
+\ttl@toksa=\toks34
+\titlewidth=\dimen155
+\titlewidthlast=\dimen156
+\titlewidthfirst=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-global.def"
+File: uni-global.def 2012/04/20 UCS: Unicode global data
+)
+\uc@secondtry=\count179
+\uc@combtoks=\toks35
+\uc@combtoksb=\toks36
+\uc@temptokena=\toks37
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks38
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box45
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen158
+\pgf@y=\dimen159
+\pgf@xa=\dimen160
+\pgf@ya=\dimen161
+\pgf@xb=\dimen162
+\pgf@yb=\dimen163
+\pgf@xc=\dimen164
+\pgf@yc=\dimen165
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count180
+\c@pgf@countb=\count181
+\c@pgf@countc=\count182
+\c@pgf@countd=\count183
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count184
+\pgfsyssoftpath@bigbuffer@items=\count185
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen166
+\pgfmath@count=\count186
+\pgfmath@box=\box46
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex"))) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+"
+\c@pgfmathroundto@lastzeros=\count187
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen167
+\pgf@picmaxx=\dimen168
+\pgf@picminy=\dimen169
+\pgf@picmaxy=\dimen170
+\pgf@pathminx=\dimen171
+\pgf@pathmaxx=\dimen172
+\pgf@pathminy=\dimen173
+\pgf@pathmaxy=\dimen174
+\pgf@xx=\dimen175
+\pgf@xy=\dimen176
+\pgf@yx=\dimen177
+\pgf@yy=\dimen178
+\pgf@zx=\dimen179
+\pgf@zy=\dimen180
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen181
+\pgf@path@lasty=\dimen182
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen183
+\pgf@shorten@start@additional=\dimen184
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box47
+\pgf@hbox=\box48
+\pgf@layerbox@main=\box49
+\pgf@picture@serial@count=\count188
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen185
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen186
+\pgf@pt@y=\dimen187
+\pgf@pt@temp=\dimen188
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen189
+\pgf@sys@shading@range@num=\count189
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box50
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box51
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count190
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikzleveldistance=\dimen199
+\tikzsiblingdistance=\dimen200
+\tikz@figbox=\box52
+\tikz@tempbox=\box53
+\tikztreelevel=\count191
+\tikznumberofchildren=\count192
+\tikznumberofcurrentchild=\count193
+\tikz@fig@count=\count194
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count195
+\pgfmatrixcurrentcolumn=\count196
+\pgf@matrix@numberofcolumns=\count197
+)
+\tikz@expandcount=\count198
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))))
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\labstyle2.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+))
+\@indexfile=\write4
+
+Writing index file all.idx
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.aux"
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\cover.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch07.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch08.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch09.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch10.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap02.aux"
+
+LaTeX Warning: Label `sel-tag:app' multiply defined.
+
+)
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap03.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap04.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap05.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap06.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap07.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap08.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap09.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap10.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 21.
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring ON on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count199
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.out")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.out")
+\@outlinefile=\write5
+\c@lstlisting=\count200
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count201
+\scratchdimen=\dimen201
+\scratchbox=\box55
+\nofMPsegments=\count202
+\nofMParguments=\count203
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count204
+\MPscratchDim=\dimen202
+\MPnumerator=\count205
+\makeMPintoPDFobject=\count206
+\everyMPtoPDFconversion=\toks48
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\fr-longtable.sty"
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box56
+\flrow@LT@prelastfoot=\box57
+\c@FBLTpage=\count207
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 349.96892pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 526.376pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=349.96892pt
+* \textheight=526.376pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-77.96053pt
+* \headheight=19.91692pt
+* \headsep=14.22636pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+
+Package ucs Warning: ***************************
+(ucs)                You seem to have loaded inputencoding utf8
+(ucs)                (LaTeX kernel UTF-8) instead of utf8x (ucs.sty UTF-8).
+(ucs)                Probably you are compiling a document written for a
+(ucs)                pre-august-2004 ucs.sty.
+(ucs)                ***************************
+(ucs)                Please use \usepackage[utf8x]{inputenc} instead of
+(ucs)                \usepackage[utf8]{inputenc}.
+(ucs)                ***************************
+(ucs)                If you should really want to use ucs.sty and kernel's
+(ucs)                utf8.def together, use \usepackage[utf8x,utf8]{inputenc}
+(ucs)                to disable compatibility mode
+(ucs)                ***************************
+(ucs)                Activating compatibility mode.
+(ucs)                ***************************
+(ucs)                 on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)
+ABD: EveryShipout initializing macros
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\cover.tex" ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-4.def"
+File: uni-4.def 2012/04/20 UCS: Unicode data U+0400..U+04FF
+)
+[1
+
+
+{C:/Documents and Settings/All Users/Application Data/MiKTeX/2.9/pdftex/config/
+pdftex.map}]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [2
+
+] [3])
+\tf@toc=\write6
+ [4]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.lof")
+\tf@lof=\write7
+ [5
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.lot")
+\tf@lot=\write8
+ [6
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.lol")
+\tf@lol=\write9
+) [7
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch07.tex"
+\IeC {\CYRL }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyra }\
+IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyra } \IeC {\cyrr }\
+IeC {\cyro }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyra } \No  1.
+[8
+
+
+
+]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 46.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 1365) in paragraph at lines 50--51
+[]\T2A/cmr/m/n/10 �������� []\T2A/cmtt/m/n/10 CREATE DATABASE \T2A/cmr/m/n/10 �
+���-��� ��-�� ��-��� � ���-��-��� i��-
+ []
+
+[9] [10]
+Underfull \hbox (badness 1019) in paragraph at lines 88--89
+[]\T2A/cmr/m/n/10 ��i �i�-��-��-���-�i�, i��-�� ���� ����-��-�-���� � ���� ����
+ (RAID-
+ []
+
+[11] [12] [13] [14] [15] [16] [17]
+Overfull \hbox (6.94392pt too wide) in paragraph at lines 296--296
+[]\T2A/cmtt/m/n/10 LOAD DATA [LOW_PRIORITY | CONCURRENT] [LOCAL] INFILE 'file_n
+ame.txt'[] 
+ []
+
+[18] [19] [20]) [21]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch08.tex"
+\IeC {\CYRL }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyra }\
+IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyra } \IeC {\cyrr }\
+IeC {\cyro }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyra } \No  2.
+[22
+
+
+
+]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 23.
+LaTeX Font Info:    Try loading font information for T2A+fcr on input line 23.
+LaTeX Font Info:    No file T2Afcr.fd. on input line 23.
+
+
+LaTeX Font Warning: Font shape `T2A/fcr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+) [23] [24] [25])
+[26]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch09.tex"
+\IeC {\CYRL }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyra }\
+IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyra } \IeC {\cyrr }\
+IeC {\cyro }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyra } \No  3.
+[27
+
+
+
+]) [28]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch10.tex"
+\IeC {\CYRL }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyra }\
+IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyra } \IeC {\cyrr }\
+IeC {\cyro }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyra } \No  4.
+[29
+
+
+
+]) [30]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRA .
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-00.tex" [31
+
+
+
+])
+Overfull \hbox (349.96892pt too wide) detected at line 18
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 16--22
+[] [] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 23
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 22--26
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 26--27
+[] [] []
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-01.tex"
+\du=\skip87
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|
+ []
+
+
+Overfull \hbox (3.76488pt too wide) in paragraph at lines 31--31
+[]| 
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-02.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|
+ []
+
+
+Overfull \hbox (1.51474pt too wide) in paragraph at lines 33--33
+[]| 
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 33--34
+[]|\T2A/fcr/m/n/10 ��������� ���i-�� ��� �i��-���
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 33--34
+\T2A/fcr/m/n/10 ���-��-�i�, �����-�� ��-��� ����-
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-03.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 35--36
+[]|\T2A/fcr/m/n/10 �i������� �i-��-�-�� ��� ���-
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-04.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|
+ []
+
+
+Overfull \hbox (2.26479pt too wide) in paragraph at lines 37--37
+[]| 
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 37--38
+[]|\T2A/fcr/m/n/10 ������ �i�-����-�� ��-��-��-�-��
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-05.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 39--40
+[]|\T2A/fcr/m/n/10 ������������ ��-��� � ���-��,
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-06.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|
+ []
+
+
+Overfull \hbox (2.25334pt too wide) in paragraph at lines 41--41
+[]| 
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 41--42
+\T2A/fcr/m/n/10 ��� i ��i��-��-�-�� ��-��-��-�-����
+ []
+
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-07.tex")
+Underfull \hbox (badness 10000) in alignment at lines 27--45
+[] [] []
+ []
+
+[32]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01-08.tex") [33] [34] <ap01-09.png, id=642, 997.7275pt x 744.7825pt>
+File: ap01-09.png Graphic file (type png)
+
+<use ap01-09.png>
+Package pdftex.def Info: ap01-09.png used on input line 63.
+(pdftex.def)             Requested size: 997.72505pt x 744.78069pt.
+ <ap01-10.png, id=643, 971.63pt x 529.98pt>
+File: ap01-10.png Graphic file (type png)
+ <use ap01-10.png>
+Package pdftex.def Info: ap01-10.png used on input line 70.
+(pdftex.def)             Requested size: 971.62764pt x 529.97868pt.
+
+<ap01-11.png, id=644, 1284.8pt x 803.0pt>
+File: ap01-11.png Graphic file (type png)
+ <use ap01-11.png>
+Package pdftex.def Info: ap01-11.png used on input line 76.
+(pdftex.def)             Requested size: 1284.79688pt x 802.99805pt.
+) [35 <D:/google/Google Диск/лабы/web-программирование/
+v 0.1.tex/ap01-09.png>] [36 <D:/google/Google Диск/лабы/web-прогр�
+�ммирование/v 0.1.tex/ap01-10.png> <D:/google/Google Диск/лаб�
+�/web-программирование/v 0.1.tex/ap01-11.png>]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap02.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRB .
+[37
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\T2A/fcr/m/n/10 ��������� ��-�� <<���-��-����>>. � ��-�i ����-���-��-�-�� ���
+-���-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\T2A/fcr/m/n/10 �� ��� �i�-����-��-�i ���-�� ���-��-�� ��-���� ��-��-��-�i ��-�
+�-��-���
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 41--42
+\T2A/fcr/m/n/10 <<��'�_���������=��������>>. ���� ���-��-���� �� ����-���-��-��
+ ���-��-��
+ []
+
+[38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T2A/fcr/m/n/10 ��� �i�-����-���-�i ���-�� ���-��� ����-�� ��-�i ��-��
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 116--117
+\T2A/fcr/m/n/10 <<��'�_���������=��������>>. �� ��-���-��-��-�-��� ��-�� ��-�� 
+����-���
+ []
+
+[40]) [41]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap03.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRV .
+
+Underfull \hbox (badness 6141) in paragraph at lines 37--38
+[]\T2A/cmr/bx/n/10 SERVER_PROTOCOL \T2A/fcr/m/n/10 ���-�i� ���-��-��-�� HTTP. �
+�-���-����,
+ []
+
+[42
+
+
+
+]
+Underfull \hbox (badness 4765) in paragraph at lines 48--49
+[]\T2A/cmr/bx/n/10 DOCUMENT_ROOT \T2A/fcr/m/n/10 �i-��-���� ���� �� ��-��-��-��
+-�� WWW-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]\T2A/cmr/bx/n/10 SERVER_SIGNATURE \T2A/fcr/m/n/10 �i�-��� ���-��-��. ��-���-�
+���,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 65--66
+[]\T2A/cmr/bx/n/10 HTTP_ACCEPT_ENCODING \T2A/fcr/m/n/10 ���-��� �i�-���-��-��-�
+�� ��-��-�i�
+ []
+
+[43] [44]
+Overfull \hbox (349.96892pt too wide) detected at line 115
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 114--119
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 120
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 119--123
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 123--124
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 124--146
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 146--148
+[] []
+ []
+
+) [45]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap04.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRG .
+
+Overfull \hbox (349.96892pt too wide) detected at line 12
+ [] 
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 10--16
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 17
+ [] 
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 16--20
+[] []
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 20--21
+[] []
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 21--42
+[] []
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 42--62
+[] []
+ []
+
+[46
+
+
+
+]
+Underfull \hbox (badness 2503) in paragraph at lines 65--66
+[]|\T2A/fcr/m/n/10 ������� ����-��-��-�-�� ���-��-�i�, ��-��-���-��
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 67--68
+[]|\T2A/fcr/m/n/10 ������� ����-��-��-�-�� ���-��-�i�, ��-��-���-��
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 62--82
+[] []
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]|\T2A/fcr/m/n/10 ���i����-���������� ��-�i-��� ���-��i�
+ []
+
+
+Overfull \hbox (11.06572pt too wide) in alignment at lines 82--102
+[] []
+ []
+
+[48]
+Overfull \hbox (11.06572pt too wide) in alignment at lines 102--104
+[] []
+ []
+
+[49] [50]
+Overfull \hbox (349.96892pt too wide) detected at line 113
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 112--127
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 134
+ [] 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 157--158
+[]|\T2A/fcr/m/n/10 �i����i�� 0 ��� �i��-�� ��-��i-���-��-����
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 132--162
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 171
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 169--192
+[] []
+ []
+
+[51]) [52]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap05.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRD .
+
+Underfull \hbox (badness 10000) in alignment at lines 7--8
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 9
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 8--13
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 14
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 13--17
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 17--18
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 18--42
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\T2A/fcr/m/n/10 ���������� ���-����-��-���-�� ���-��-��-�-��
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 42--62
+[] []
+ []
+
+[53
+
+
+
+]
+Underfull \hbox (badness 10000) in alignment at lines 62--82
+[] []
+ []
+
+[54]
+Underfull \hbox (badness 10000) in alignment at lines 82--102
+[] []
+ []
+
+[55]
+Underfull \hbox (badness 10000) in alignment at lines 102--106
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 111--112
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 113
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 112--117
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 118
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 117--121
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 121--122
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 122--135
+[] []
+ []
+
+[56] [57]
+Underfull \hbox (badness 10000) in alignment at lines 140--141
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 142
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 141--146
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 147
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 146--150
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 150--151
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 151--166
+[] []
+ []
+
+) [58]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap06.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRE .
+
+Overfull \hbox (6.40019pt too wide) in alignment at lines 6--7
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 8
+ [] 
+ []
+
+
+Overfull \hbox (6.40019pt too wide) in alignment at lines 7--12
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 13
+ [] 
+ []
+
+
+Overfull \hbox (6.40019pt too wide) in alignment at lines 12--16
+[] []
+ []
+
+
+Overfull \hbox (6.40019pt too wide) in alignment at lines 16--17
+[] []
+ []
+
+
+Overfull \hbox (6.40019pt too wide) in alignment at lines 17--28
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 33--34
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 36
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 34--40
+[] []
+ []
+
+
+Overfull \hbox (349.96892pt too wide) detected at line 41
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 40--44
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 44--45
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 45--67
+[] []
+ []
+
+[59
+
+
+
+]
+Underfull \hbox (badness 5008) in paragraph at lines 72--73
+[]|\T2A/fcr/m/n/10 "a=href, area=href, frame=src,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]|\T2A/fcr/m/n/10 "PHP_SESSION_
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 67--82
+[] []
+ []
+
+[60]
+Underfull \hbox (badness 1057) in paragraph at lines 102--103
+[]\T2A/fcr/m/n/10 ��� ����-��-�� ��-��� ��i�-��, ��� ��-��-��-���-��-��� ��� �
+��-�i-��-�-
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\T2A/fcr/m/n/10 �������� ��� ����-��-��-�� ��-��-���, � ���-�� ��-���� ���-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\T2A/fcr/m/n/10 �i-��-��-�� ���-�� ��-�i�. $path = []\T2A/cmtt/m/n/10 session_s
+ave_path() \T2A/fcr/m/n/10 --- ����-��-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\T2A/fcr/m/n/10 ��. []\T2A/cmtt/m/n/10 session_save_path("/mydir/temp") \T2A/fc
+r/m/n/10 --- ����-��-��-��. ��-��-����
+ []
+
+[62]) [63]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap07.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRIE .
+[64
+
+
+
+] [65]) [66]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap08.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRZH .
+) [67
+
+
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap09.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRZ .
+) [68
+
+
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap10.tex"
+{\Ukrainian \CYRD \cyro \cyrd \cyra \cyrt \cyro \cyrk } \CYRI .
+) [69
+
+
+
+]
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.ind")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.bbl")
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+ [70
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\all.aux"
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\cover.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch07.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch08.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch09.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ch10.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap01.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap02.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap03.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap04.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap05.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap06.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap07.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap08.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap09.aux")
+("D:\google\Google Диск\лабы\web-программирование\v 0.1
+.tex\ap10.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `all.out' has not changed.
+(rerunfilecheck)             Checksum: 5C986CF209828EECBCF3BB864918ED6D;17958.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+ ) 
+Here is how much of TeX's memory you used:
+ 24660 strings out of 494045
+ 408648 string characters out of 3148334
+ 716923 words of memory out of 3000000
+ 27109 multiletter control sequences out of 15000+200000
+ 15528 words of font info for 39 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 63i,13n,57p,962b,2796s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:/Pr
+ogram Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/s
+fbx2488.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on all.pdf (70 pages, 887589 bytes).
+PDF statistics:
+ 902 PDF objects out of 1000 (max. 8388607)
+ 268 named destinations out of 1000 (max. 500000)
+ 572 words of extra memory for PDF output out of 10000 (max. 10000000)
+
